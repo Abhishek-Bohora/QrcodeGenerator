@@ -15,7 +15,7 @@ const Qrgenerator = () => {
         <div className="bg-purple-600 h-screen ">
            
             <div className="pt-3 pl-4">
-                <a href="https://github.com/Abhishek-Bohora/Emoji-rating"  >
+                <a href="https://github.com/Abhishek-Bohora/QrcodeGenerator"  >
                     <i class="fab fa-github fa-2x"></i>
                 </a>
             </div>
